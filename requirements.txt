@@ -1,0 +1,11 @@
+# Файл: requirements.txt
+fastapi
+uvicorn[standard]
+python-dotenv
+numpy
+scikit-learn
+sentence-transformers
+torch
+langchain
+PyMuPDF
+mistralai

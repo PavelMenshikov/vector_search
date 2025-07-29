@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+/vectors/
+/data/book_content.txt
+/data/grokking_deep_learning.pdf
+*.pyc
